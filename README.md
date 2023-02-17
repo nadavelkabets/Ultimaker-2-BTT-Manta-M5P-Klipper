@@ -9,9 +9,9 @@ The Ultimaker mainboard also has several design flaws that cause visible layer b
 
 Here you can find the instructions, components, STL files and printer.cfg to convert your Ultimaker 2 to Klipper.
 
-##Recommended parts (BOM) - I purchased from Aliexpress
--BIGTREETECH Manta M5P + CB1 (heatsink) + TMC2209
--BIGTREETECH MAX31865 V2.0 PT100 amplifier
--NTC100K thermistor
--Meanwell LRS-350-24 power supply
--FYSETC POM TR8x8 lead screw nut (recommended)
+## Recommended parts (BOM) - I purchased from Aliexpress
+- BIGTREETECH Manta M5P + CB1 (heatsink) + TMC2209
+- BIGTREETECH MAX31865 V2.0 PT100 amplifier
+- NTC100K thermistor
+- Meanwell LRS-350-24 power supply
+- FYSETC POM TR8x8 lead screw nut (recommended)
