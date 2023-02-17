@@ -5,7 +5,7 @@ With that said, electronics improved a lot since 2014.
 The Ultimaker 8 bit Arduino based controller, running an old version of Merlin, is really outdated.
 These days, 64 bit ARM computers running Klipper, connected to fast 32 bit controllers offer input shaping (reduces ringing), pressure advance (tunes for nozzle pressure), wireless connectivity, silent steppers etc.
 
-The Ultimaker mainboard also has several design flaws that cause visible layer banding, inaccurate temperature readings and LED flickering while the bed heater is running.
+The Ultimaker mainboard also has several design flaws that cause visible layer banding, inaccurate temperature readings and LED flickering while the bed heater is running. The old controller also uses "bang-bang" to maintain heatbed temperatures (turns on, overshoots, turns off, undershoots, etc...). The new controller allows for precise PID temperature control.
 
 Here you can find the instructions, components, STL files and printer.cfg to convert your Ultimaker 2 to Klipper.
 
