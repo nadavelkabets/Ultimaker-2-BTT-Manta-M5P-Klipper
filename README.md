@@ -8,6 +8,7 @@ These days, 64 bit ARM computers running Klipper, connected to fast 32 bit contr
 The Ultimaker mainboard also has several design flaws that cause visible layer banding, inaccurate temperature readings and LED flickering while the bed heater is running. The old controller also uses "bang-bang" to maintain heatbed temperatures (turns on, overshoots, turns off, undershoots, etc...). The new controller allows for precise PID temperature control.
 
 Here you can find the instructions, components, STL files and printer.cfg to convert your Ultimaker 2 to Klipper.
+BTT M5P Github: https://github.com/bigtreetech/Manta-M5P
 
 ## Parts requirements:
 - The Ultimaker Heatbed is rated for 180W (24V, 7.5A). The print head heater is rated for 25W. Peak power during heating will surpass 200W. Average power during printing will probably be around 100W for PLA and 150-200W for ABS. A 350W power supply was chosen.
