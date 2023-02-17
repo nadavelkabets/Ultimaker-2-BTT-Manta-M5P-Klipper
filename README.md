@@ -22,7 +22,6 @@ Here you can find the instructions, components, STL files and printer.cfg to con
 - FYSETC POM TR8x8 lead screw nut (recommended)
 
 ## M5P Pinout
-### Manta M5P Pinout table
 
 <table>
    <tr>
