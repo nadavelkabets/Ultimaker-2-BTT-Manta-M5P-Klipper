@@ -1,3 +1,4 @@
+< ongoing project >
 # Ultimaker 2+ BTT Manta M5P Klipper mod 
 The Ultimaker 2 has a fantastic mechanical design that keeps up with current coreXY motion systems. The stiff and lightweight gantry is capable of high acceleration figures with little ringing. 
 
