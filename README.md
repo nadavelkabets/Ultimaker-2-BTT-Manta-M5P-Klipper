@@ -11,8 +11,6 @@ The Ultimaker mainboard also has several design flaws that cause visible layer b
 Here you can find the instructions, components, STL files and printer.cfg to convert your Ultimaker 2 to Klipper.
 BTT M5P Github: https://github.com/bigtreetech/Manta-M5P
 
-![Controller installed with adapter plate](https://github.com/nadavelkabets/Ultimaker-2-BTT-Manta-M5P-Klipper/blob/main/Manta_installed.jpg)
-
 ## Parts requirements:
 - The Ultimaker Heatbed is rated for 180W (24V, 7.5A). The print head heater is rated for 25W. Peak power during heating will surpass 200W. Average power during printing will probably be around 100W for PLA and 150-200W for ABS. A 350W power supply was chosen.
 - The hotend thermistor can be replaced easily but the heatbed thermistor is soldered. The Manta M5P was chosen to allow a MAX31865 SPI amplifier to connect the PT100 heatbed thermistor.
@@ -25,4 +23,7 @@ BTT M5P Github: https://github.com/bigtreetech/Manta-M5P
 - Meanwell LRS-350-24 power supply
 - FYSETC POM TR8x8 lead screw nut (recommended)
 - M3 screw kit with nuts
+- Crimp tool for molex, ferrule and insulated terminals
 
+
+![Controller installed with adapter plate](https://github.com/nadavelkabets/Ultimaker-2-BTT-Manta-M5P-Klipper/blob/main/Manta_installed.jpg)
