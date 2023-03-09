@@ -24,6 +24,7 @@ BTT M5P Github: https://github.com/bigtreetech/Manta-M5P
 - NTC100K thermistor
 - Meanwell LRS-350-24 power supply
 - FYSETC POM TR8x8 lead screw nut (recommended)
+- M3 screw kit with nuts
 
 ## M5P Pinout
 
