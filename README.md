@@ -25,5 +25,9 @@ BTT M5P Github: https://github.com/bigtreetech/Manta-M5P
 - M3 screw kit with nuts
 - Crimp tool for molex, ferrule and insulated terminals
 
+## Installation notes:
+- The part cooling fans are rated for 12V and are connected in series, so you should use a 24V jumper on the fan header.
+- The PT100 wires should be connected to the middle two pins of the M5 motor header.
+
 
 ![Controller installed with adapter plate](https://github.com/nadavelkabets/Ultimaker-2-BTT-Manta-M5P-Klipper/blob/main/Manta_installed.jpg)
